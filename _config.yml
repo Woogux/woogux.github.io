@@ -71,6 +71,8 @@ baidu_analytics: a176c51f2ffc9e8fa08ff5d5bcf75b85
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://github.com/woogux/woogux.github.io.git
+  branch: master
 
 
